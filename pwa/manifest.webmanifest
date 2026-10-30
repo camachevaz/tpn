@@ -1,0 +1,17 @@
+{
+  "name": "Tamiz de Procesamiento Numérico",
+  "short_name": "Tamiz TPN",
+  "description": "Tamiz de riesgo de discalculia para niñas y niños de 10 a 14 años (prototipo de validación).",
+  "lang": "es-MX",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#f6f3ec",
+  "theme_color": "#1f3a5f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
